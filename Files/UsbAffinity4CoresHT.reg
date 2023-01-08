@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00 
+ 
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Enum\PCI\VEN_1022&DEV_15E0&SUBSYS_125C1025&REV_00\4&35FEB52A&0&0341\Device Parameters\Interrupt Management\Affinity Policy] 
+[HKEY_LOCAL_MACHINE\System\ControlSet001\Enum\PCI\VEN_1022&DEV_15E1&SUBSYS_125C1025&REV_00\4&35FEB52A&0&0441\Device Parameters\Interrupt Management\Affinity Policy] 
+ 
+"DevicePolicy"=dword:00000004 
+"AssignmentSetOverride"=hex(3):C0 
